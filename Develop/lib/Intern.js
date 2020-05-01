@@ -7,3 +7,4 @@ class Intern {
         this.school = school;
     }
 }
+module.exports = Intern;
